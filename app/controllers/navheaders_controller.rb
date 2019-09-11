@@ -1,0 +1,2 @@
+class NavheadersController < ApplicationController
+end

@@ -1,0 +1,2 @@
+class FireguardsController < ApplicationController
+end
